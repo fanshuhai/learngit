@@ -228,8 +228,7 @@ var newArr=arr.reduce(function(pre,cur){
 },[])
 
 console.log(newArr)
-
-
+var gitupdata='我是新的git';
 
 
 
