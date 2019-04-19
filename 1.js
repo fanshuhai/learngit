@@ -232,7 +232,7 @@ var gitupdata='我是新的git';
 
 var gitupdata1='我是新的git1';
 
-
+var gitupdata2='我是新的git2';
 
 
 
