@@ -238,7 +238,7 @@ var gitupdata2='我是新的git3';
 
 var creat='created a new branch';
 
-
+var master='symple ADN easy';
 
 
 
