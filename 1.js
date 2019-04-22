@@ -234,6 +234,8 @@ var gitupdata1='我是新的git1';
 
 var gitupdata2='我是新的git2';
 
+var gitupdata2='我是新的git3';
+
 
 
 
